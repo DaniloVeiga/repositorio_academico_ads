@@ -1,0 +1,103 @@
+h1{
+font-family: Arial;
+font-size: 15px;
+}
+h2{
+font-family: Arial;
+font-size: 10px;
+}
+h3{
+font-family: Arial;
+font-size: 20px;
+margin-top: 16px;
+margin-left: 440px;
+float: left;
+}
+header{
+padding-top: 10px;
+#background-image: linear-gradient(to left, black, lightgray,white);
+border-style: solid;
+border-width: 1px;
+border-radius: 40px;
+#color: white;
+height: 60px;
+}
+nav{
+border-style: solid;
+border-radius: 40px 40px 0px 0px;
+margin-top: 5px;
+border-width: 0px;
+height: 65px;
+text-align: center;
+background-color: brown;
+width: 990px;
+margin-left:170px;
+}
+button{
+font-size: 10px;
+width: 80px;
+height: 20px;
+border: 0px;
+border-radius: 15px;
+background-color: orange;
+font-weight: bold;
+margin-top: 5px;
+}
+
+hr{
+width: 500px;
+}
+
+.lateral{
+float: left;
+}
+p{
+padding: 10px;
+font-weight: bold;
+font-family: Arial;
+font-size: 15px;
+}
+.painel{
+  background-color: brown;
+  padding: 10px;
+  border-radius: 35px;
+  border-style: solid;
+  border-color: black;
+  border-width: 0px;
+  height: 430px;
+  width: 1310px;
+  text-align: center;
+}
+.painel-escopo{
+  padding: 10px;
+  background-color: lightgray;
+  border-radius: 40px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  margin-top: 5px;
+  margin-left: 5px;
+  height: 400px;
+  width:676px;
+  text-align: center;
+  float: left;
+}
+#caixa_de_som{
+width: 300px;
+height: 430px;
+}
+#radio_logo
+{
+	margin-top: 3px;
+	width: 45px;
+	height: 45px;
+	margin-left: 460px;
+}
+#torre_logo
+{
+	margin-top: 3px;
+	width: 45px;
+	height: 45px;
+	margin-left: 20px;
+	float: left;
+}
