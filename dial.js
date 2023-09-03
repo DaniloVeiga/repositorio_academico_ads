@@ -17,3 +17,4 @@ var fmeducativa='<h1>PARANÁ EDUCATIVA FM - CURITIBA</h1><audio controls><source
 var fmevangelizar='<h1>EVANGELIZAR FM - CURITIBA</h1><audio controls><source src="https://shout07.crossradio.com.br:18000/stream/1;" autoplay=""></audio><br><hr><br><img src="https://daniloveiga.github.io/repositorio_academico_ads/paranaed_250X250.png"></img>';
 var fmpan='<h1>RÁDIO JOVEM PAN FM - CURITIBA</h1><audio controls><source src="https://r15.ciclano.io:14417/live" autoplay=""></audio><br><hr><br>';
 var fmgospel='<h1>GOSPEL FM - CURITIBA</h1><audio controls><source src="https://www.appradio.app:8161/live" autoplay=""></audio><br><hr><br><img src=""></img>';
+var fmmix='<h1>MIX FM - CURITIBA</h1><audio controls><source src="https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CURITIBAAAC.aac" autoplay=""></audio><br><hr><br><img src=""></img>';
