@@ -16,3 +16,4 @@ var amdifusora='<h1>REDE DIFUSORA - CURITIBA</h1><audio controls><source src="ht
 var fmeducativa='<h1>PARANÁ EDUCATIVA FM - CURITIBA</h1><audio controls><source src="https://aovivo.paranaeducativa.pr.gov.br/stream/educativafm.mp3" autoplay=""></audio><br><hr><br><img src="https://daniloveiga.github.io/repositorio_academico_ads/paranaed_.png" height="180" width="180"></img>';
 var fmevangelizar='<h1>EVANGELIZAR FM - CURITIBA</h1><audio controls><source src="https://shout07.crossradio.com.br:18000/stream/1;" autoplay=""></audio><br><hr><br><img src="https://daniloveiga.github.io/repositorio_academico_ads/paranaed_250X250.png"></img>';
 var fmpan='<h1>RÁDIO JOVEM PAN FM - CURITIBA</h1><audio controls><source src="https://r15.ciclano.io:14417/live" autoplay=""></audio><br><hr><br>';
+var fmgospel='<h1>GOSPEL FM - CURITIBA</h1><audio controls><source src="https://www.appradio.app:8161/live;" autoplay=""></audio><br><hr><br><img src=""></img>';
