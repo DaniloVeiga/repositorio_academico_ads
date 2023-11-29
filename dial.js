@@ -19,3 +19,4 @@ var fmpan='<h1>RÁDIO JOVEM PAN FM - CURITIBA</h1><audio controls><source src="h
 var fmgospel='<h1>GOSPEL FM - CURITIBA</h1><audio controls><source src="https://www.appradio.app:8161/live" autoplay=""></audio><br><hr><br><img src=""></img>';
 var fmmix='<h1>MIX FM - CURITIBA</h1><audio controls><source src="https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_CURITIBAAAC.aac" autoplay=""></audio><br><hr><br><img src=""></img>';
 var fmmassa='<h1>MASSA FM - CURITIBA</h1><audio controls><source src="https://stm01.virtualcast.com.br:8118/massacuritiba" autoplay=""></audio><br><hr><br><img src=""></img>';
+var fmmercosul='<h1>MASSA FM - CURITIBA</h1><audio controls><source src="https://ice.fabricahost.com.br/redemercosulctba" autoplay=""></audio><br>';
