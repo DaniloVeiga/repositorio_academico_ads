@@ -23,3 +23,4 @@ var fmmercosul='<h1>MERCOSUL FM - CURITIBA</h1><audio controls><source src="http
 var fmmarumby='<h1>MARUMBY FM - CURITIBA</h1><audio controls><source src="https://live.paineldj.com.br/proxy/marumbyfm885?mp=/stream" autoplay=""></audio><br>';
 var fmmundolivre='<h1>MUNDO LIVRE FM - CURITIBA</h1><audio controls><source src="https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64.aac" autoplay=""></audio><br>';
 var fmpannews='<h1>JOVEM PAN NEWS FM - CURITIBA</h1><audio controls><source src="https://r18.ciclano.io:15156/live" autoplay=""></audio><br>';
+var fmpannews='<h1>RÁDIO LÍDER FM - CURITIBA</h1><audio controls><source src="https://ice.fabricahost.com.br/91fmcuritiba" autoplay=""></audio><br>';
