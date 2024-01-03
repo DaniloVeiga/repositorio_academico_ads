@@ -12,7 +12,7 @@ font-family: arial;
 font-weight: bold;
 font-size: 24px;
 #padding-top: 20px;
-height: 200px;
+height: 220px;
 width: 1250px;
 }
 /*
@@ -93,7 +93,7 @@ pre{
 }
 
 #banner_cabecalho{
-	height: 200px;
+	height: 220px;
 	width: 1250px;
 	border-radius: 20px;
 }
