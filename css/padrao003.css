@@ -147,9 +147,6 @@ body {
     padding: 10px;
     height: 200%;
   }
-.body {
-	height:100%;
-}
 }
 
 /* Estilos para dispositivos com largura de tela acima de 600 pixels (notebooks e desktops) */
